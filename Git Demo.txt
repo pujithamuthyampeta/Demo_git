@@ -1,0 +1,45 @@
+git hub commands
+1> git status
+2> git init
+3> git add .// to all files
+4> git add .
+5> git add filename
+6> git checkout -b name
+7> git commit -m "message"
+8> git pull origin
+
+steps:
+git status
+git init
+git status
+git add .
+git status
+-> add to repository
+git remote add origin paste repository link
+->create branch otherwise it will go with master
+-> git commit -m "initial setup done"
+-> open command prompt
+- git --version
+- git config --global user.name "Pujitha Muthyampeta"
+or 
+- git config --global user.email "pujithamuthyampeta@gmail.com"
+->go to git bash
+- git push origin master
+-> create a branch :
+- git checkout -b Pujitha
+again same process of adding a file
+-> to pull the code 
+-> git checkout Master
+- git pull origin Master
+- git checkout Pujitha
+- git push origin Pujitha
+
+
+
+
+
+
+
+
+
+
